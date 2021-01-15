@@ -1,7 +1,7 @@
 # Inshackle v1.0
-## Inshackle v1.0 github.com/xd20111/inshackle
-## IG : instagram.com/xd_20111
-## Website: www.yourhacker.in
+## Inshackle v1.0 github.com/Dewan-toro/inshackle
+## IG : instagram.com/dewan.keadilan
+## Website: www.dewan477.com
 ## Author: github.com/thelinuxchoice/inshackle
 ## Author IG: instagram.com/linux_choice
 ### if you want to copy this code Please give Author credits {i mean dont forget Author credit}, nerd! Please read the License 
@@ -18,7 +18,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/xd20111/inshackle
+git clone https://github.com/Dewan-toro/inshackle
 cd inshackle
 bash inshackle.sh
 ```
