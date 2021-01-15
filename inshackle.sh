@@ -430,7 +430,7 @@ kylie="12281817"
 jelopez="305701719"
 messi="427553890"
 
-jktinfo="12331155"
+dewan.keadilan="12331165"
 indozone.id="325734299"
 shawnmendes="212742998"
 katyperry="407964088"
@@ -628,7 +628,7 @@ elif [[ $option -eq 5 ]]; then
 login_user
 default_user=$user
 
-
+ 
 read -p $'\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Account (leave it blank to use your account): \e[0m' user_account
 
 user_account="${user_account:-${default_user}}"
